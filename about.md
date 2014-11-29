@@ -1,30 +1,24 @@
 ---
-layout: page
-title: About
+layout: default
+title: James Tranovich
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## About me
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<img src="../public/images/profile.png" width="256px" height="256px" />
 
-There are currently two themes built on Poole:
+I am an entrepreneur based in Berkeley, currently engaged with my third start-up as Chief Product Officer. I have been deaf since the age of one, due to spinal meningitis.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I enjoy rock climbing, reading Roman socio-political history and contemporary philosophy, and hacking on functional programming [projects](https://github.com/cantsin).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I agree with Emerson when he says that "Every novel is a debtor to Homer." I consider the late David Foster Wallace to be the [novelist par excellence](http://www.brickjest.com/) of our era. I adore historians such as Ronald Syme and E. H. Carr.
 
-## Setup
+I regularly host [hackathons](https://github.com/gamelost) for disabled professional programmers. We welcome anyone, and if you want to join, just drop me [a line](mailto:jtranovich@gmai.com).
 
-Some fun facts about the setup of this project include:
+*A dream of reason* is an allusion to the nature of both programming and philosophy.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+You may contact me:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* on [Twitter](https://twitter.com/cantsin_)
+* via IRC (cantsin on [freenode.net](https://freenode.net/irc_servers.shtml))
+* by [email](mailto:jtranovich@gmail.com).
