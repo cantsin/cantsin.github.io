@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: page
+sidebar_name: About
 title: James Tranovich
 ---
 
 ## About me
 
-<img src="../public/images/profile.png" width="256px" height="256px" />
+<img style="float:right; padding: 1em;" src="../public/images/profile.png" width="256px" height="256px" />
 
 I am an entrepreneur based in Berkeley, currently engaged with my third start-up as Chief Product Officer. I have been deaf since the age of one, due to spinal meningitis.
 

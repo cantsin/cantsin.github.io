@@ -16,7 +16,11 @@ url:                 http://tranovich.io
 baseurl:             /
 paginate:            5
 
-currently_reading:   "Francis Fukuyama's Political Order and Political Decay"
+currently_reading:
+  - { name: "The Last Lion: Winston Spencer Churchill",
+      review_link: "http://www.nytimes.com/2012/12/23/books/review/the-last-lion-by-william-manchester-and-paul-reid.html" }
+  - { name: "Political Order and Political Decay",
+      review_link: "http://www.washingtonpost.com/opinions/book-review-political-order-and-political-decay-by-francis-fukuyama/2014/10/24/57414b58-4e35-11e4-aa5e-7153e466a02d_story.html"}
 
 # About/contact
 author:
