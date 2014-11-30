@@ -7,13 +7,14 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+    <a target="_blank" class="sidebar-nav-item" href="http://www.twitter.com/cantsin_">Twitter Feed</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    {% assign pages_list = site.pages | sort:"sort" %}
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
@@ -21,8 +22,6 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
 
     <div class="sidebar-item">
       Currently reading:
@@ -38,7 +37,7 @@
       Last updated {{ site.time | date: '%B %d, %Y' }}.
     </p>
     <p>
-      &copy; James Tranovich {{ site.time | date: '%Y' }}. All rights reserved.
+      &copy; <a href="mailto:jtranovich@gmail.com">James Tranovich</a> {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
   </div>
 </div>

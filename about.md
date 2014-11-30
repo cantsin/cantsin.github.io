@@ -1,14 +1,15 @@
 ---
 layout: page
-sidebar_name: About
+sidebar_name: About me
 title: James Tranovich
+sort: 4
 ---
 
 ## About me
 
 <img style="float:right; padding: 1em;" src="../public/images/profile.png" width="256px" height="256px" />
 
-I am an entrepreneur based in Berkeley, currently engaged with my third start-up as Chief Product Officer. I have been deaf since the age of one, due to spinal meningitis.
+I am an entrepreneur based in Berkeley, currently engaged with my <a target="_blank" href="http://www.openhorizonlabs.com">third start-up</a> as Chief Product Officer. I have been deaf since the age of one, due to spinal meningitis.
 
 I enjoy rock climbing, reading Roman socio-political history and contemporary philosophy, and hacking on functional programming [projects](https://github.com/cantsin).
 
