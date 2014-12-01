@@ -13,11 +13,11 @@ The data structure I chose to implement was a finger tree: a data structure with
 
 I wrote this while learning F#, so I am afraid the code is not quite idiomatic. Nonetheless, I am very impressed with the language so far.
 
-As of November 22, 2014, the project is complete, although I may return to it some day to properly add laziness. Currently the code is not optimized at all.
+As of November 22, 2014, the project is complete, although I may return to it some day to add laziness. Currently the code is not optimized at all.
 
 ### [PCGen Rules](https://github.com/gamelost/pcgen-rules)
 
-I have been constantly frustrated with the (sad) state of affairs with [PCGen](http://pcgen.sourceforge.net/01_overview.php), an open source character generator for role-playing games. So I decided to write a Haskell program to parse the rule sets it uses, in the hopes that I would be able to build a better platform for myself and my gaming friends. Of course, this turned out to be a far bigger project than I anticipated.
+I have been consistently frustrated with the (sad) state of affairs with [PCGen](http://pcgen.sourceforge.net/01_overview.php), an open source character generator for role-playing games. So I decided to write a Haskell program to parse the rule sets it uses, in the hopes that I would be able to build a better platform for myself and my gaming friends. Of course, this turned out to be a far bigger project than I anticipated.
 
 Currently the code consists of a whole lot of monadic parsers. I'm not yet quite sure where all this will end -- but I'm already thinking about ways to write a better rule based inference engine. Maybe something on top of [MiniKanren](http://minikanren.org/).
 
