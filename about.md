@@ -15,7 +15,7 @@ I enjoy rock climbing, reading Roman socio-political history and contemporary ph
 
 I agree with Emerson when he says that "Every novel is a debtor to Homer." I consider the late David Foster Wallace to be the [novelist par excellence](http://www.brickjest.com/) of our era. I adore historians such as Ronald Syme and E. H. Carr.
 
-I regularly host [hackathons](https://github.com/gamelost) for disabled professional programmers. We welcome anyone, and if you want to join, just drop me [a line](mailto:jtranovich@gmai.com).
+I regularly host [hackathons](/hackday) for disabled professional programmers. We welcome anyone, and if you want to join, just drop me [a line](mailto:jtranovich@gmail.com).
 
 *A dream of reason* is an allusion to the nature of both programming and philosophy.
 
