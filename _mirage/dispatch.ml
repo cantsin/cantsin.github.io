@@ -1,6 +1,7 @@
 open Lwt
 open Printf
 open V1_LWT
+open Re_str
 
 module Main (C:CONSOLE) (FS:KV_RO) (S:Cohttp_lwt.Server) = struct
 
@@ -21,11 +22,13 @@ module Main (C:CONSOLE) (FS:KV_RO) (S:Cohttp_lwt.Server) = struct
     let split_path uri =
       let path = Uri.path uri in
       let rec aux = function
-        | [] | [""] -> []
-        | hd::tl -> hd :: aux tl
+        | [] | [ (Re_str.Text "")] -> []
+        | [ (Re_str.Delim "/") ] -> ["index.html"] (*trailing slash*)
+        | (Re_str.Text hd)::tl -> hd :: aux tl
+        | (Re_str.Delim hd)::tl -> aux tl
       in
-      List.filter (fun e -> e <> "")
-        (aux (Re_str.(split_delim (regexp_string "/") path)))
+      (List.filter (fun e -> e <> "")
+        (aux (Re_str.(full_split (regexp_string "/") path))))
     in
 
     (* dispatch non-file URLs *)
