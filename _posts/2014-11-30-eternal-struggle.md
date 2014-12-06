@@ -10,6 +10,8 @@ date: 2014-11-30
 
 These days, I am aware that having a blog may be passé. And yet, after so many years, I am finally restarting my blog. Why?
 
+<!--more-->
+
 A few reasons.
 
 - I love twitter and all that comes with it, but short-form postings simply do not promote deep thinking. Furthermore, twitter is partially designed to be an echo chamber. Sometimes I feel the need to express more substantial and in-depth musings about technical and social issues.

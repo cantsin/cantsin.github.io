@@ -15,6 +15,7 @@ description:         'My personal blog, wherein I discuss programming, disabilit
 url:                 http://tranovich.io
 baseurl:             /
 paginate:            5
+excerpt_separator:   <!--more-->
 
 currently_reading:
   - { name: "The Last Lion: Winston Spencer Churchill",
