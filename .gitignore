@@ -40,3 +40,13 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+/_mirage/_build/
+/_mirage/log
+/_mirage/mir-www.xen
+/_mirage/static1.ml
+/_mirage/static1.mli
+/_mirage/www.xe
+/_mirage/www.xl
+/_mirage/www_libvirt.xml
+
+/*.img
