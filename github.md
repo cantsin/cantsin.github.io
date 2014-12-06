@@ -11,7 +11,7 @@ sort: 2
 
 The data structure I chose to implement was a finger tree: a data structure with first-order nested types using monoids and reductions (via generics/parametric polymorphism). The reference paper is [Finger trees - a simple general-purpose data structure (Hinze, Paterson)](https://github.com/cantsin/fsharp-finger-trees/blob/master/reference/Finger%20trees%20-%20a%20simple%20general-purpose%20data%20structure%20(Hinze,%20Paterson).pdf?raw=true). As a bonus, I also wanted to test C# interoperability with F# code.
 
-I wrote this while learning F#, so I am afraid the code is not quite idiomatic. Nonetheless, I am very impressed with the language so far. See [this blog post](/2014/11/30/fsharp/) for more observations.
+I wrote this while learning F#, so I am afraid the code is not quite idiomatic. Nonetheless, I am very impressed with the language so far. See [this blog post](/2014/12/05/fsharp-ascendant/) for more observations.
 
 As of November 22, 2014, the project is complete, although I may return to it some day to add laziness. Currently the code is not optimized at all.
 
