@@ -67,7 +67,7 @@ I did not have enough time (there is never enough time, alas) to plumb deeper de
 
 All that being said, my exploratory research was conclusive in at least one regard: I will be promoting and using F# for work (one of the few advantages of [leading a startup](http://www.openhorizonlabs.com/)!)
 
-There is no doubt in my mind that F# is ready for production use.
+There is no doubt in my mind that F# is ready for prime time.
 
 ## References
 
