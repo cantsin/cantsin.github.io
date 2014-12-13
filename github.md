@@ -23,11 +23,11 @@ Currently the code consists of a whole lot of monadic parsers. I'm not yet quite
 
 As of {{ site.time | date: '%B %d, %Y' }}, this is still a work in progress.
 
-### Git Tracker
+### [Git Tracker](https://github.com/cantsin/git-tracker)
 
-This project is currently in its planning stages. I want a better way to track my programming, writing, and research habits. Since I (ab)use git, and have both private and public repositories scattered everywhere, I figured that I would jump on the [Quantified Self](http://quantifiedself.com/) bandwagon and make my own habit tracker.
+This project is currently being implemented. As outlined in [this blog post](/2014/12/12/introducing-git-tracker/) I want a better way to track my programming, writing, and research habits. Since I (ab)use git, and have both private and public repositories scattered everywhere, I figured that I would jump on the [Quantified Self](http://quantifiedself.com/) bandwagon and make my own habit tracker.
 
-Currently, I have wireframes on [Balsamiq](https://balsamiq.com/) and I have settled on several graphical representations for data: [heat](http://en.wikipedia.org/wiki/Heat_map) and [tree maps](http://en.wikipedia.org/wiki/Treemapping).
+I designed several wireframes on [Balsamiq](https://balsamiq.com/) and I have since settled on several graphical representations for data: [heat](http://en.wikipedia.org/wiki/Heat_map) and [tree maps](http://en.wikipedia.org/wiki/Treemapping). I am currently working on getting a basic [Flask](http://flask.pocoo.org/) app up and running.
 
 ### More
 
