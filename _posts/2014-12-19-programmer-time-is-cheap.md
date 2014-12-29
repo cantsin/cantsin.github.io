@@ -67,18 +67,20 @@ control these instruments. The habit of problem solving is simple and
 seductive: iteratively split a given domain into smaller logical
 chunks until these chunks can be individually dealt with. Most of the
 time, we obtain immediate feedback, and if we are lucky, good results.
-There is something very satisfying about this.
+Logic prevails. As such, there is something very satisfying about
+this.
 
 Alas, as everyone knows, working in the real world is messy and
 incoherent. In bitter counterpoint to the world of computers, there is
 neither rhyme nor reason to the order of living things. People are by
-turns ill-tempered, insensate, and immoderate. Dealing with vague and
+turns ill-tempered, immoderate, and insensate. Dealing with vague and
 ever-changing intangibles can try the souls of the most doughty and
 stalwart.
 
-Yet 'progress' usually depends most on this irrational front.
+Yet 'progress' of all kinds usually depends most on this irrational
+front. And that can be hard for programmers and engineers to accept.
 
-## What is to be done?
+## We're All Delusional, Really
 
 To return to the issue of long-term planning, the danger of the
 rationalist delusion is that we chase progress for progress' sake. In
@@ -94,8 +96,14 @@ For me, long-term planning means setting time aside to stare off in
 space, even as a thousand things need to be done yesterday. For me, it
 means foregoing elegant code for a dirty, real-world solution. For me,
 it means an explicit acknowledgment that not all problems can be
-solved, that there are indeed limits to my reach and ambition. It
-means sacrificing my short-term desires for the (possibly unrealized)
-hope of a certain future.
+solved, that there are indeed limits to my reach and ambition. And
+finally, for me, it means sacrificing my short-term desires for the
+(possibly unrealized) hope of a specific future.
 
-But it is the most important thing I do.
+Strange as it may seem, I have seen some start-ups flounder precisely
+because they fall into this trap. A clear symptom of this is when
+highly trained and motivated engineers focus exclusively on the
+minutiae of a project to the detriment of the company itself.
+
+In the end, code is not important. Programmer time is cheap. What
+really matters are the long term plans of the business itself.
