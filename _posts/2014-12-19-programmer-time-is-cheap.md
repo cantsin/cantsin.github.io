@@ -34,7 +34,8 @@ I have had this painful 'joke' hammered into me over and over again.
 When I do not take the time to think, when I do not re-assess goals on
 a periodic basis, when I do not make long-term plans, Things Go Awry.
 It doesn't matter how much code I have written, how many problems I
-have solved in the interim. Believe you me when I say that I have
+have solved in the interim: without a good long term plan, most of
+that work is simply wasted. Believe you me when I say that I have
 swallowed that bitter pill a great many times.
 
 Nonetheless, even with that experience under my belt, taking the time
@@ -98,7 +99,7 @@ means foregoing elegant code for a dirty, real-world solution. For me,
 it means an explicit acknowledgment that not all problems can be
 solved, that there are indeed limits to my reach and ambition. And
 finally, for me, it means sacrificing my short-term desires for the
-(possibly unrealized) hope of a specific future.
+(possibly unrealized) hope of a particular future.
 
 Strange as it may seem, I have seen some start-ups flounder precisely
 because they fall into this trap. A clear symptom of this is when
