@@ -98,6 +98,8 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 1rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
+  margin-left: 22rem;
+  margin-right: 4rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -146,15 +148,12 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   left: 0rem;
   width: 17rem;
-  z-index: 10;
-  visibility: visible;
-  overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
 }
-@media (min-width: 30em) {
+@media (min-width: 48em) {
   .sidebar {
     font-size: .75rem; /* 14px */
   }
@@ -288,7 +287,11 @@ a.pagination-item:hover {
   background-color: #f5f5f5;
 }
 
-@media (min-width: 30em) {
+@media (min-width: 64em) {
+  .content {
+    margin-left: 22rem;
+    margin-right: 4rem;
+  }
   .pagination {
     margin: 3rem 0;
   }
